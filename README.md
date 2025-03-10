@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm S.M. Asfaqur Rahman</h1>
-<h3 align="center">I am Student at IIUC in Chittagong, Bangladesh, I am currently learn about Full Stack WebDevlopment.</h3>
+<h3 align="center">I am Student at IIUC in Chittagong, Bangladesh. I am currently learn about Full Stack WebDevlopment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farez770&label=Profile%20views&color=0e75b6&style=flat" alt="farez770" /> </p>
 
