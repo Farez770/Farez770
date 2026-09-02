@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-m-asfaqur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s-m-asfaqur-rahman/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/asfaqur.rahman.5437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/asfaqur.rahman.5437" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/farez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/farez" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/user3663ej/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user3663ej/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/s-m-asfaqur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-asfaqur-rahman/" height="30" width="40" /></a>
+<a href="https://fb.com/asfaqur.rahman.5437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asfaqur.rahman.5437" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/farez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farez" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/user3663ej/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/user3663ej/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farez770&show_icons=true&locale=en" alt="farez770" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farez770&" alt="farez770" /></p>
+
