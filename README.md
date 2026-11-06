@@ -1,4 +1,4 @@
-![logo](https://github.com/Farez770/Farez770/blob/main/Github_Banner_1.png)
+![logo](https://github.com/Farez770/Farez770/blob/main/Github_bannar_2.png)
 
 <h1 align="center">Hi 👋, I'm S.M. Asfaqur Rahman Farez</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
